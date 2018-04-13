@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+Hello, humans!
+I am from the moon!
